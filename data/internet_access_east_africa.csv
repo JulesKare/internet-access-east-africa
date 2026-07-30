@@ -1,0 +1,15 @@
+country	year	internet_users_pct_population	source
+Rwanda	2015	18	World Bank WDI (IT.NET.USER.ZS)
+Rwanda	2016	20	World Bank WDI (IT.NET.USER.ZS)
+Rwanda	2022	31.2	World Bank WDI (IT.NET.USER.ZS)
+Rwanda	2023	34.2	World Bank WDI (IT.NET.USER.ZS)
+Kenya	2015	16.6	World Bank WDI (IT.NET.USER.ZS)
+Kenya	2016	16.6	World Bank WDI (IT.NET.USER.ZS)
+Kenya	2019	22.7	World Bank WDI (IT.NET.USER.ZS)
+Kenya	2023	35	World Bank WDI (IT.NET.USER.ZS)
+Uganda	2022	11.1	World Bank WDI (IT.NET.USER.ZS)
+Uganda	2023	15.3	World Bank WDI (IT.NET.USER.ZS)
+Tanzania	2023	29.06	World Bank WDI (IT.NET.USER.ZS)
+Burundi	2023	7.17	World Bank WDI (IT.NET.USER.ZS)
+Burundi	2024	8.6	World Bank WDI (IT.NET.USER.ZS)
+Sub-Saharan Africa	2024	33.6	World Bank WDI (IT.NET.USER.ZS) - regional aggregate

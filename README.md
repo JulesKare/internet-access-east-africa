@@ -8,13 +8,13 @@ Development Goals (SDG 9: Industry, Innovation and Infrastructure).
 ## The question
 
 How does Rwanda's internet access compare to its East African neighbors (Kenya, Uganda,
-Tanzania, Burundi) and the Sub-Saharan Africa regional average - and how much progress
+Tanzania, Burundi) and the Sub-Saharan Africa regional average — and how much progress
 has Rwanda made over time?
 
 ## Data source
 
 All figures are drawn from the **World Bank World Development Indicators**, indicator
-`IT.NET.USER.ZS` - "Individuals using the Internet (% of population)" - accessed via
+`IT.NET.USER.ZS` — "Individuals using the Internet (% of population)" — accessed via
 World Bank data and secondary aggregators in July 2026. Each row in
 [`data/internet_access_east_africa.csv`](data/internet_access_east_africa.csv) is
 labeled with its exact year and source, since not every country has a published figure
@@ -43,19 +43,19 @@ python3 analyze.py
 
 ## Findings
 
-- **Rwanda's internet access grew from 18.0% (2015) to 34.2% (2023)** - a 16.2
+- **Rwanda's internet access grew from 18.0% (2015) to 34.2% (2023)** — a 16.2
   percentage-point increase over eight years.
 - **Kenya grew faster in absolute terms** over a similar window (16.6% in 2015 to 35.0%
   in 2023, +18.4 percentage points), and both countries now sit close together, well
   above Uganda (15.3%, 2023) and Burundi (8.6%, 2024).
 - **Rwanda and Kenya are both close to the Sub-Saharan Africa regional average (33.6%,
-  2024)**, while Uganda and Burundi remain well below it - highlighting where regional
+  2024)**, while Uganda and Burundi remain well below it — highlighting where regional
   digital-inclusion gaps are largest.
 
 ## Why this matters for digital development work
 
 Internet access is a foundational enabler for nearly everything UNDP's Digital, AI and
-Innovation Hub works on - digital public infrastructure, e-government services, and
+Innovation Hub works on — digital public infrastructure, e-government services, and
 inclusive digital transformation all depend on people actually being able to get online.
 A simple comparison like this is a first step toward the kind of monitoring and
 reporting work that tracks whether digital strategies are actually closing regional
@@ -63,11 +63,11 @@ gaps, not just improving national averages.
 
 ## Files
 
-- `data/internet_access_east_africa.csv` - raw, sourced dataset
-- `analysis/analyze.py` - cleaning, analysis, and chart-generation script
-- `charts/01_rwanda_trend.png` - Rwanda's internet access over time
-- `charts/02_latest_comparison.png` - latest available figures across countries
-- `charts/03_growth_comparison.png` - growth since earliest available year, Rwanda vs Kenya
+- `data/internet_access_east_africa.csv` — raw, sourced dataset
+- `analysis/analyze.py` — cleaning, analysis, and chart-generation script
+- `charts/01_rwanda_trend.png` — Rwanda's internet access over time
+- `charts/02_latest_comparison.png` — latest available figures across countries
+- `charts/03_growth_comparison.png` — growth since earliest available year, Rwanda vs Kenya
 
 ---
 *Built by Jules Karegeya Mugisha as an independent data analysis exercise.*
